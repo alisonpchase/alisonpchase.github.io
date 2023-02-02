@@ -1,6 +1,8 @@
 ---
+title: "Ali Chase"
 permalink: /
-title: "About"
+header:
+  - overlay_image
 excerpt: "About me"
 author_profile: true
 redirect_from: 
