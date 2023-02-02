@@ -1,6 +1,6 @@
 ---
 layout: archive
-<!-- title: "CV" -->
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Downloadable CV](http://alisonpchase/alisonpchase.github.io/files/Alison_Chase_CV_Oct2022.pdf))
+[Downloadable CV](http://alisonpchase/alisonpchase.github.io/files/Alison_Chase_CV_Oct2022.pdf)
 
 **Education**
 
