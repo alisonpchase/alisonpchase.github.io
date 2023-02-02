@@ -21,7 +21,7 @@ Haëntjens, N., E. Boss, J. Graff, **A. Chase**, and L. Karp-Boss (2022), Phytop
 
 Eveleth, R., D. M. Glover, M. C. Long, I. D. Lima, **A. P. Chase**, and S. C. Doney (2021), Assessing the skill of a high-resolution marine biophysical model using geostatistical analysis of mesoscale ocean chlorophyll variability from field observations and remote sensing. Frontiers in Marine Science, 8:612764. doi: 10.3389/fmars.2021.612764.  
 
-C**hase, A. P.**, S. J. Kramer, N. Haëntjens, E. S. Boss, L. Karp-Boss, M. Edmondson, and J. R. Graff (2020), Evaluation of diagnostic pigments to estimate phytoplankton size classes. Limnology and Oceanography: Methods, https://doi.org/10.1002/lom3.10385.  
+**Chase, A. P.**, S. J. Kramer, N. Haëntjens, E. S. Boss, L. Karp-Boss, M. Edmondson, and J. R. Graff (2020), Evaluation of diagnostic pigments to estimate phytoplankton size classes. Limnology and Oceanography: Methods, https://doi.org/10.1002/lom3.10385.  
 
 Cael, B. B., **A. Chase**, and E. Boss (2020), Information content of absorption spectra and implications for ocean color inversion. Applied Optics, 59 (13): 3971. https://doi.org/10.1364/ao.389189.  
 
