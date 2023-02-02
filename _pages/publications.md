@@ -45,4 +45,4 @@ Villar, E., G. Farrant, M. Follows, L. Garczarek, S. Speich, S. Audic, L. Bittne
 
 **Chase, A.**, E. Boss, R. Zaneveld, A. Bricaud, H. Claustre, J. Ras, G. Dall’Olmo, T. Westberry (2013), Decomposition of in situ particulate absorption spectra. Methods in Oceanography, 7: 110-124.  
 
-Boss, E., M. Picheral, T. Leeuw, **A. Chase**, E. Karsenti, G. Gorsky, L. Taylor, W. Slade, J. Ras, H. Claustre (2013), The characteristics of particulate absorption, scattering and attenuation coefficients in the surface ocean; Contribution of the Tara Oceans expedition. Methods in Oceanography, 7: 52-62.[pdf](http://alisonpchase/alisonpchase.github.io/files/Boss_etal_2013.pdf)
+Boss, E., M. Picheral, T. Leeuw, **A. Chase**, E. Karsenti, G. Gorsky, L. Taylor, W. Slade, J. Ras, H. Claustre (2013), The characteristics of particulate absorption, scattering and attenuation coefficients in the surface ocean; Contribution of the Tara Oceans expedition. Methods in Oceanography, 7: 52-62. [PDF](http://alisonpchase/alisonpchase.github.io/files/Boss_etal_2013.pdf)
