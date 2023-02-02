@@ -29,7 +29,7 @@ Fox, J., M. J. Behrenfeld, Nils Haëntjens, **A. Chase**, S. J. Kramer, E. Boss,
 
 Schulien, J. A., A. D. Penna, P. Gaube, **A. P. Chase**, N. Haëntjens, J. R. Graff, J. W. Hair, et al. (2020), Shifts in phytoplankton community structure across an anticyclonic eddy revealed from high spectral resolution lidar scattering measurements. Frontiers in Marine Science, 7 (June): 1–13. https://doi.org/10.3389/fmars.2020.00493.  
 
-Casey, K., C. Rousseaux, W. Gregg, E.Boss, **A. Chase**, S. Craig, C. Mouw, et al. (2019), A Global Compilation of in Situ Aquatic High Spectral Resolution Inherent and Apparent Optical Property Data for Remote Sensing Applications. Earth System Science Data Discussions, 902230: 1–29. https://doi.org/10.5194/essd-2019-105.  
+Casey, K., C. Rousseaux, W. Gregg, E.Boss, **A. Chase**, S. Craig, C. Mouw, et al. (2020), A Global Compilation of in Situ Aquatic High Spectral Resolution Inherent and Apparent Optical Property Data for Remote Sensing Applications. Earth System Science Data Discussions, 902230: 1–29. https://doi.org/10.5194/essd-2019-105.  
 
 Gao, M., P-W Zhai1, B. Franz, Y. Hu, K. Knobelspiesse, P. J. Werdell, A. Ibrahim, B. Cairns, **A. Chase** (2019), Inversion of multi-angular polarimetric measurements over open and coastal ocean waters: a joint retrieval algorithm for aerosol and water leaving radiance properties. Atmospheric Measurement Techniques, 1–31. https://doi.org/10.5194/amt-2019-67.  
 
@@ -45,4 +45,4 @@ Villar, E., G. Farrant, M. Follows, L. Garczarek, S. Speich, S. Audic, L. Bittne
 
 **Chase, A.**, E. Boss, R. Zaneveld, A. Bricaud, H. Claustre, J. Ras, G. Dall’Olmo, T. Westberry (2013), Decomposition of in situ particulate absorption spectra. Methods in Oceanography, 7: 110-124.  
 
-Boss, E., M. Picheral, T. Leeuw, **A. Chase**, E. Karsenti, G. Gorsky, L. Taylor, W. Slade, J. Ras, H. Claustre (2013), The characteristics of particulate absorption, scattering and attenuation coefficients in the surface ocean; Contribution of the Tara Oceans expedition. Methods in Oceanography, 7: 52-62.
+Boss, E., M. Picheral, T. Leeuw, **A. Chase**, E. Karsenti, G. Gorsky, L. Taylor, W. Slade, J. Ras, H. Claustre (2013), The characteristics of particulate absorption, scattering and attenuation coefficients in the surface ocean; Contribution of the Tara Oceans expedition. Methods in Oceanography, 7: 52-62.[pdf](http://alisonpchase/alisonpchase.github.io/files/Boss_etal_2013.pdf)
